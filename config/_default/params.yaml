@@ -82,3 +82,11 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+      
+# Uncomment options below to use them.
+extensions:
+  cms:
+     branch: main
+#     publish_mode: editorial_workflow
+#     local_backend: true
+
